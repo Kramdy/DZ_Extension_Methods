@@ -1,0 +1,6 @@
+D:\С#\DZ_Extension_Methods\bin\Debug\DZ_Extension_Methods.exe
+D:\С#\DZ_Extension_Methods\bin\Debug\DZ_Extension_Methods.pdb
+D:\С#\DZ_Extension_Methods\obj\Debug\DZ_Extension_Methods.csproj.AssemblyReference.cache
+D:\С#\DZ_Extension_Methods\obj\Debug\DZ_Extension_Methods.csproj.CoreCompileInputs.cache
+D:\С#\DZ_Extension_Methods\obj\Debug\DZ_Extension_Methods.exe
+D:\С#\DZ_Extension_Methods\obj\Debug\DZ_Extension_Methods.pdb
